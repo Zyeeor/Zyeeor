@@ -18,5 +18,3 @@
 ## 工作状态
 ## Coding Status
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@55e8a8c6-76fc-4480-b85b-2502f013b652/1b0a0351-aebb-4e7b-a991-e68588b8bc2b.png" style="width:600px;margin-left:auto;margin-right:auto;"/></a><br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@55e8a8c6-76fc-4480-b85b-2502f013b652/3bec6496-291c-4f1e-829f-fafe16d23d0c.png" style="width:600px;margin-left:auto;margin-right:auto;" /></a><br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@55e8a8c6-76fc-4480-b85b-2502f013b652/220a8e96-cc38-4202-8eb2-2d4c62383c93.png" style="width:600px;margin-left:auto;margin-right:auto;" /></a>
