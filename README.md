@@ -3,7 +3,7 @@
 ### Below are my current coding work:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyeeor&theme=transparent&repo=Renderer-Tutorial)](https://github.com/Zyeeor/Renderer-Tutorial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyeeor&theme=transparent&repo=Object_Oriented_Programming)](https://github.com/Zyeeor/Object_Oriented_Programming)
-
+### More work is in Unity Engine without pushing to GitHub.😶‍🌫️
 ### Follow me for more!
 
 
@@ -12,7 +12,7 @@
 ### 以下是我近期正在做的工作：
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyeeor&theme=transparent&repo=Renderer-Tutorial)](https://github.com/Zyeeor/Renderer-Tutorial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyeeor&theme=transparent&repo=Object_Oriented_Programming)](https://github.com/Zyeeor/Object_Oriented_Programming)
-
+### 更多的工作都在Unity引擎内完成，因此并不会同步到GitHub。😶‍🌫️
 ### 更多内容请持续关注我！
 
 ## 工作状态
